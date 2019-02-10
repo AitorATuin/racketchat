@@ -1,0 +1,6 @@
+* RacketChat
+
+*racketchat* is a very basic client library for rocketchat written in *typed/racket*.
+
+The only purpose of this library is to learn *typed/racket* so don't expect any fancy :).
+
